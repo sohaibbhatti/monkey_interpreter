@@ -21,6 +21,9 @@ const (
 	ASTERISk = "!"
 	SLASH    = "/"
 
+	EQ     = "=="
+	NOT_EQ = "!="
+
 	LT = "<"
 	GT = ">"
 

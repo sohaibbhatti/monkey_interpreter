@@ -14,8 +14,15 @@ const (
 	IDENT = "IDENT"
 	INT   = "INT"
 
-	ASSIGN = "="
-	PLUS   = "+"
+	ASSIGN   = "="
+	PLUS     = "+"
+	MINUS    = "-"
+	BANG     = "!"
+	ASTERISk = "!"
+	SLASH    = "/"
+
+	LT = "<"
+	GT = ">"
 
 	COMMA     = ","
 	SEMICOLON = ";"
